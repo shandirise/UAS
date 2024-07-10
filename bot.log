@@ -1,0 +1,4 @@
+[05-Jul-2024 12:25:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method TelegramApi::addCommandHandler() in C:\xampp\htdocs\UAS\bot.php:250
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\UAS\bot.php on line 250
